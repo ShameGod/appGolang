@@ -6,3 +6,8 @@ The go.mod file keeps track of the used dependencies. To get a dependency we use
 ```
 go get {url}
 ```
+
+## Ent framework : 
+
+### Json 
+To add the json version of the atributes we add it like this `id` in front of the struct attribute. 
